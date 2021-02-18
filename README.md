@@ -6,8 +6,7 @@ O desafio consiste na criação de uma API de conta digital, no qual deverá ser
 
 - Git
 - Lombok
-- Spring Security 
-- Criando um projeto Spring 
+- Spring Security  
 - Maven 
 - Spring Boot 
 - Api (Rest)
