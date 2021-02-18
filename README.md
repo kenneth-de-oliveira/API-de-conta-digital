@@ -48,14 +48,16 @@ Caso não consiga instalar através da interface, copiar o lombok.jar para o dir
 
 Como acessar a aplicação:
 
-	URL: http://localhost:8080/swagger-ui.html
+URL: http://localhost:8080/swagger-ui.html
 	
-	JDBC URL: jdbc:mysql://db4free.net:3306/contadigital
-    	Usuário: contadigital
-	Senha: contadigital
+JDBC URL: jdbc:mysql://db4free.net:3306/contadigital
+Usuário: contadigital
+Senha: contadigital
 	
-	Usuário: admin
-	Senha: admin
+Spring Security
+
+Usuário: admin
+Senha: admin
 
 
 Configuração do Java e Maven utilizados :
