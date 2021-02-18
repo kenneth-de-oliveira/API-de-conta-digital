@@ -46,6 +46,9 @@ Caso não consiga instalar através da interface, copiar o lombok.jar para o dir
 
 ========================================================================
 
+Configurações do projeto
+========================================================================
+
 Como acessar a aplicação:
 
 URL: http://localhost:8080/swagger-ui.html
