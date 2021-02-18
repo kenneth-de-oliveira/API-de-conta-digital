@@ -38,9 +38,9 @@ Caso não consiga instalar através da interface, copiar o lombok.jar para o dir
 	Após o projeto ser clonado, abra o terminal no diretório clonado **API-de-conta-digital**
 	e utilize os seguintes comandos:
 
-	
+	cd API-de-conta-digital
 	mvn install
-	../API-de-conta-digital/target
+	
 	
 **É de suma importância aguardar a execução dos comandos acima citados.**
 
@@ -57,6 +57,7 @@ Senha: contadigital
 Spring Security
 
 Usuário: admin
+
 Senha: admin
 
 
