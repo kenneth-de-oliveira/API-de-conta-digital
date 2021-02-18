@@ -1,7 +1,6 @@
 **API de conta digital**
 ========================================================================
-O desafio consiste na criação de uma API de conta digital, no qual deverá ser oferecido os
-principais serviços encontrados nesse tipo de conta.
+O desafio consiste na criação de uma API de conta digital, no qual deverá ser oferecido os principais serviços encontrados nesse tipo de conta, tais como: cadastro de uma conta, login na conta e menu da conta.
 
 **Alguns dos recursos utilizados*
 
