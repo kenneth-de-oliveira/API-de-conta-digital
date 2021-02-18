@@ -27,7 +27,7 @@ Caso não consiga instalar através da interface, copiar o lombok.jar para o dir
 
 -javaagent:/DIRETÓRIO_QUE_VOCE_COPIOU_O_LOMBOK.JAR/lombok.jar
 
-**Instruções*
+**Instruções**
 
 	Primeiramente deve-se clonar o repositório no endereço:
 	
