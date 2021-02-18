@@ -27,7 +27,7 @@ Caso não consiga instalar através da interface, copiar o lombok.jar para o dir
 
 -javaagent:/DIRETÓRIO_QUE_VOCE_COPIOU_O_LOMBOK.JAR/lombok.jar
 
-**Back-End**
+**Instruções*
 
 	Primeiramente deve-se clonar o repositório no endereço:
 	
@@ -44,10 +44,10 @@ Caso não consiga instalar através da interface, copiar o lombok.jar para o dir
 
 ========================================================================
 
-Configurações do projeto
+Configuração do projeto
 ========================================================================
 
-Como acessar a aplicação:
+**Como acessar a aplicação:**
 
 URL: http://localhost:8080/swagger-ui.html
 	
@@ -55,7 +55,7 @@ JDBC URL: jdbc:mysql://db4free.net:3306/contadigital
 Usuário: contadigital
 Senha: contadigital
 	
-Spring Security
+**Credenciais do spring security:**
 
 Usuário: admin
 
